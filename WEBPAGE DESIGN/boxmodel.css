@@ -1,0 +1,34 @@
+/*
+* Hannah Jeker 
+* May 8 2018
+* Bix Model 
+*/
+
+
+/* The universal selector */
+
+* { margin:0;
+	padding:0;
+
+}
+
+/* Put body attributes here */
+
+body {border: thin solid yellow; 
+	  padding: 5px;
+}
+h1{
+	border: dotted green;
+	padding: 10px;
+}
+p{
+	border: thick solid blue;
+	padding: 7px;
+}
+
+main{
+		border: thin solid orange;
+		padding: 5px;
+	}
+
+
