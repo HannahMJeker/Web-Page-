@@ -1,0 +1,58 @@
+/* Name:Hannah Jeker 
+*  Date: May 30,2018 
+*  Hedy Lamarr Final */
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 95% ;
+    background-color: pink;
+    color: black;
+    margin: 15px auto;
+    border: 1px solid black;
+}
+
+h1 {
+    padding: 10px;
+    	background-color: pink; 
+    	color: beige;
+}
+
+header {
+    border-bottom: 2px solid beige;
+}
+
+#sidebarA {
+    width: 25% ;
+    height: 500px;
+    float: left ;
+    border-right: 2px solid beige;
+}
+
+main {
+    width:45% ;
+    height:520px; /* to make sure the middle main section isn't to close to the bottom*/
+    float: left ;
+}
+.hedy {height:125px; width:100px; /*to give the pictures a good size*/
+	border: 3px solid black;}
+
+#sidebarB {
+    width: 28%;
+    height: 500px;
+    float: right ;
+    border-left: 2px solid beige;
+}
+ul{
+	margin: 30px;}
+p{
+	margin: 15px;} /*to move the paragraph info in more*/
+
+footer {
+    clear: both ;
+    border-top: 2px solid beige;
+    margin: 15px auto;
+}
